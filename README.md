@@ -26,6 +26,11 @@ sudo apt install docker.io
 **Give permission to docker of read, write and execution**
 ````
 sudo chmod 777 /var/run/docker.sock
-```
+````
 ![image](https://github.com/user-attachments/assets/c6a3535a-c6d5-47c8-a7d0-44486b205ef4)
+
+### Login into jenkins 
+**publicIP instance:8080(jenkins port)**
+
+###
 
