@@ -46,11 +46,12 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ### Download all the plugins and install tools
 **Managed jenkins-->plugins-->Available plugins**
-Docker plugins
+
+**Docker plugins**
 ![image](https://github.com/user-attachments/assets/1436184d-5b7d-4114-a487-c49fb1eb10ce)
-stageview plugins
+**stageview plugins**
 ![image](https://github.com/user-attachments/assets/644a15d4-6c66-4c87-9467-83642db1b12d)
-maven
+**maven**
 
 ### Add tools
 **Add maven**
